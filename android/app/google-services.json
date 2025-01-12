@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "410255361500",
+    "project_id": "fruits-123",
+    "storage_bucket": "fruits-123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410255361500:android:97ec4ae3b2d73fbce67b19",
+        "android_client_info": {
+          "package_name": "com.example.fruits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410255361500-ih6g95ks5a597jpm26tsuknfk3g5s9lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKcIowCFXZTLGGD7wkimeiLbHS18Ceyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410255361500-ih6g95ks5a597jpm26tsuknfk3g5s9lh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410255361500-ljql18h4j05739ffomm4kaobtsd17lb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fruits"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410255361500:android:0db280eaa27d1ffde67b19",
+        "android_client_info": {
+          "package_name": "com.example.fruits_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410255361500-ih6g95ks5a597jpm26tsuknfk3g5s9lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKcIowCFXZTLGGD7wkimeiLbHS18Ceyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410255361500-ih6g95ks5a597jpm26tsuknfk3g5s9lh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410255361500-ljql18h4j05739ffomm4kaobtsd17lb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fruits"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
